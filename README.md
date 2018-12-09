@@ -1,13 +1,13 @@
 # Web-Scraping-with-Scrapy-Scrap-Doctors-Info-from-Colgate-site
 This code will extract info from : http://www.colgate.com/en/us/oc/oral-health , and extract all doctors Info and can e put in a csv
 
-**Extra Requirements: **
+**Extra Requirements:**
 
 This code will need a .csv file with zips which can be embed with in the Url for scraping.
 
  zips=pd.read_csv('ziplist/test1zip.csv')# In the code , the path needs to change to match the list.
  
-**Prerequisite: **
+**Prerequisite:**
 
 import scrapy
 from scrapy.spiders import CrawlSpider, Rule
