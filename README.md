@@ -9,9 +9,9 @@ This code will need a .csv file with zips which can be embed with in the Url for
  
 **Prerequisite:**
 
-import scrapy
-from scrapy.spiders import CrawlSpider, Rule
-import pandas as pd
+pip install scrapy
+
+pip install pandas
 
 **How to run**
 
