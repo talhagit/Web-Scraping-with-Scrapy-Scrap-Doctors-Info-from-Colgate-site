@@ -9,9 +9,9 @@ This code will need a .csv file with zips which can be embed with in the Url for
  
 **Prerequisite:**
 
-pip install scrapy
+* pip install scrapy
 
-pip install pandas
+* pip install pandas
 
 **How to run**
 
